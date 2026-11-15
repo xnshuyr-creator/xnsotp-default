@@ -1,0 +1,25 @@
+XNS SMS BOMBER BOT !!
+
+YEH NORMAL OTP SENDER BOT HAI CUSTOM OTP WAGRA NY HAI ESME YEH (CALL,WP,SMS) TRIO PE WORK KRTA HAI 
+
+MERI KOYI RESPONSIBILITY NHI HAI USER KAISE USE KRGA MEIN BSS EDUCATION PURPOSE KE LIYE BNAYA HU THNKS !!
+
+REGARDS @irulefyt - tg
+
+COMMAND 
+
+pkg update && pkg upgrade
+
+pkg install python
+
+pip install --upgrade pip
+
+pip install aiogram aiohttp
+
+pkg install git
+
+pkg install nano
+
+pkg install tmux
+
+#smsbomber
